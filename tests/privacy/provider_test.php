@@ -28,7 +28,6 @@ use advanced_testcase;
  * @covers     \local_checklistsettings\privacy\provider
  */
 final class provider_test extends advanced_testcase {
-
     /**
      * The plugin only exposes administrator settings and stores no personal data.
      */
