@@ -20,7 +20,7 @@ namespace local_checklistsettings\privacy;
  * Privacy provider for the Checklist settings companion plugin.
  *
  * @package    local_checklistsettings
- * @copyright  2026 John Braz
+ * @copyright  2026 Portvgal
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class provider implements \core_privacy\local\metadata\null_provider {

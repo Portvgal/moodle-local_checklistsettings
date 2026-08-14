@@ -4,7 +4,7 @@ Checklist settings is a Moodle local plugin that provides a site administration
 settings page for the Checklist advanced grading method plugin
 (`gradingform_checklist`).
 
-Copyright 2026 John Braz.
+Copyright 2026 Portvgal.
 
 ## Why this plugin exists
 
@@ -37,7 +37,7 @@ page, this companion plugin does not add a duplicate settings page.
 | Component | Supported versions |
 | --- | --- |
 | Moodle | 4.5 or later |
-| Checklist grading method | `gradingform_checklist` `2026081200` or later |
+| Checklist grading method | [`gradingform_checklist`](https://github.com/Portvgal/moodle-gradingform_checklist) `2026081200` or later |
 | PHP | The PHP versions supported by the target Moodle release |
 
 ## Installation

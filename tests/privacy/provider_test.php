@@ -22,7 +22,7 @@ use advanced_testcase;
  * Privacy provider tests for the Checklist settings companion plugin.
  *
  * @package    local_checklistsettings
- * @copyright  2026 John Braz
+ * @copyright  2026 Portvgal
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  *
  * @covers     \local_checklistsettings\privacy\provider

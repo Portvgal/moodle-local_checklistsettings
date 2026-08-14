@@ -18,7 +18,7 @@
  * English strings for the Checklist settings companion plugin.
  *
  * @package    local_checklistsettings
- * @copyright  2026 John Braz
+ * @copyright  2026 Portvgal
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
