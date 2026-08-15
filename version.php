@@ -25,9 +25,9 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_checklistsettings';
-$plugin->version = 2026081400;
+$plugin->version = 2026081500;
 $plugin->requires = 2024100700;
-$plugin->release = '1.0.0';
+$plugin->release = '1.0.1';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
     'gradingform_checklist' => 2026081200,
