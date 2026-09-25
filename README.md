@@ -37,7 +37,7 @@ page, this companion plugin does not add a duplicate settings page.
 | Component | Supported versions |
 | --- | --- |
 | Moodle | 4.5 or later |
-| Checklist grading method | [`gradingform_checklist`](https://github.com/Portvgal/moodle-gradingform_checklist) `2026081200` or later |
+| Checklist grading method | [`gradingform_checklist`](https://github.com/Portvgal/moodle-gradingform_checklist) `2026092300` (4.5.8) or later |
 | PHP | The PHP versions supported by the target Moodle release |
 
 ## Installation
@@ -63,9 +63,10 @@ After installation, go to:
 Site administration > Grades > Grading methods > Checklist settings
 ```
 
-The settings control Checklist feature availability, text limits, import/export
-options, and defaults for newly created checklist definitions. Existing
-checklist definitions are not rewritten when these settings change.
+The settings control Checklist feature availability, text limits, the maximum
+import size, import/export options, and defaults for newly created checklist
+definitions. Existing checklist definitions are not rewritten when these
+settings change.
 
 ## Upgrade Notes
 
